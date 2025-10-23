@@ -510,6 +510,5 @@ This is a living document. Contributions are welcome! If you have suggestions fo
 
 ---
 
-**Remember:** Becoming an Application Security Engineer is a journey, not a destination. Stay persistent, stay curious, and most importantly, stay ethical. Good luck on your path!
 
 **Last Updated:** October 2025
