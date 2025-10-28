@@ -122,6 +122,8 @@ Master each vulnerability in depth:
 - Automated security testing
 - Vulnerability management workflows
 
+[DevSecOps](https://github.com/MrRockettt/Application-Security/blob/main/DevSecOps.md)
+
 ### Phase 4: Specialized Areas (Ongoing)
 
 #### 1. Advanced Exploitation Techniques
